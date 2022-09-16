@@ -1,0 +1,13 @@
+* {
+  border: 2px solid red;
+}
+h1 {
+  border: 2px solid;
+  text-align: center;
+  padding: 2px;
+  margin-bottom: 20px;
+}
+
+a {
+  border: 2px solid;
+}
